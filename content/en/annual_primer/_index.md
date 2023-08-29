@@ -32,3 +32,8 @@ Click on the image links below to read that year's primer
 {.text-center}
 
 {{% /blocks/section %}}
+
+{{% blocks/section %}}
+[![](Screenshot%202023-08-29%20at%204.58.09%20PM.png)](/annual_primer/2019)
+{.text-center}
+{{% /blocks/section %}}
