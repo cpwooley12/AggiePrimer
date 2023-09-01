@@ -40,43 +40,43 @@ Now before I jump into predictions and my analysis of this team on the offensive
 
 #### Quarterback:
 
-#15 Conner Weigman 6'3" 215
-#14 Max Johnson 6'6" 230
-hopefully QB3 doesnt come into play (Marcel Reed or the Fresno St. transfer)
+* #15 Conner Weigman 6'3" 215
+* #14 Max Johnson 6'6" 230
+* hopefully QB3 doesnt come into play (Marcel Reed or the Fresno St. transfer)
 
 #### Running Back
 
 The competition in the backfield has been fierce in camp, Amari Daniels looked good spelling Achane a season ago but Im not sure if he can hold off the talent the other two backs possess. Leveon Moss is the most complete back in the stable, runs with power and vision combined with enough burst to be a homerun hitter. However he tends to run upright which may work if youre Derek Henry but his 210lb frame has tended to get dinged up and miss time on the field. Rueben Owens, the five star true freshman has garnered immense praise in fall camp. His skill set and running style is akin to the likes of Mike Goodson, A&M circa 2008 or his recruiting comparison, Reggie Bush - although Im not ready to make THAT leap just yet.  What will keep the former #1 HS RB in the nation off the field will be pass protection, there will be added emphasis this season on keep Weigman upright and healthy so I expect to see a lot of 2 TE or 2 RB sets early in the season. 
 
-#4 Amari Daniels
-#8 Leveon Moss
-#2 Rueben Owens
+* #4 Amari Daniels
+* #8 Leveon Moss
+* #2 Rueben Owens
 
 
 #### Wide Reciever
 
 This is the group I believe will make the largest jump from the previous seasons under Jimbo, in years prior this group lacked speed and consistency (what did Kendrick Rogers do save 2 games?). When the ags line it up this season, we will be athletically superior at WR to any team we play this year with the exception of the usual suspects, Alabama and LSU. Headlining the group, Evan Stewart has gone from a flashy talented freshman to a guy who is regularly unguardable. The speed shows, the hands show but his route running might be the best in the country at the collegiate level, looking for him to go for +1000yds. Noah Thomas has struggled to stay healthy as a freshman, but so did half the team last year, the 6'6" 200lb sophomore has legit 4'4" speed and has been the downfield threat we briefly saw from Caleb Chapman during the 2020 florida game and Josh Reynolds during the Sumlin years. The slot is Moose's domain, how the hell did this guy not play the last several years???? Moose the hybrid between Anais (more of a stockier RB/Deebo) and Evan (great ball skills, hands and speed), I still cannot understand how we kept this guy behind Chase Lane. Anais Smith rounds out the starters (depending on personnel) of this group but will primarily be used as a multi purpose athlete. Smith will return punts, play slot as well as some RB this season but its unclear what his snap share will be given the 3 listed above him.
 
-#1 Evan Stewart 6' 175
-#4 Noah Thomas 6'6" 210
-#7 Moose Muhammad 6'1" 205
+* #1 Evan Stewart 6' 175
+* #4 Noah Thomas 6'6" 210
+* #7 Moose Muhammad 6'1" 205
 
-#0 Anias Smith 5'10" 200
+* #0 Anias Smith 5'10" 200
 
 
 #### Tight End
 
 The group that sustained the only major injury on the roster might be the only group that could withstand the hit and not skip a beat. Former #1 HS TE in the nation Jake Johnson and the Sweedish Hammer Theo Melin Ohrstrom with a little (or a lot depending on gameplan) Max Wright will be the names youll see most at least early in the year. Jake is more of a pure receiveing threat from the TE position (think Sternberger) while Max is the blocking TE due to his size. Theo is the wildcard, the Sweede has only played football for a handfull of years but stands at 6'6" 250lbs running 4.6, measureables alone are eye popping but can he play football? Word from fall camp has been a tenative yes, I will never take Jimbo at face value again but he has raved about Theo's play during camp.
 
-#19 Jake Johnson 6'6" 240
-#11 Theo Melin Ohrstrom 6'6" 250
-#42 Max Wright 6'4" 260
+* #19 Jake Johnson 6'6" 240
+* #11 Theo Melin Ohrstrom 6'6" 250
+* #42 Max Wright 6'4" 260
 
 
 Others to watch:
 
-#82 Fernando Garza 6'6" 250lb Sophomore
-#6 Jaden Platt 6'5" 245lb Freshman 
+* #82 Fernando Garza 6'6" 250lb Sophomore
+* #6 Jaden Platt 6'5" 245lb Freshman 
 
 This group is talented and very deep, we will miss Donovan Green but if theres any position group on campus that could handle losing its starter it would be TE
 
@@ -96,11 +96,11 @@ This OL unit is full or road graders up front, running the ball should be availa
 
 
 
-LT - #60 Trey Zuhn 6'7" 315 - #89 Dametrious Crownover 6'7" 315
-LG - #75 Kam Dewberry 6'4" 330 - #66 Jordan Spasojevic Moko 6'5" 340
-C -  #61 Bryce Foster 6'5" 330 - #54 Mark Nabou 6'4" 325 R-FR
-RG - #64 Layden Robinson 6'4" 315 - #67 TJ Shanahan 6'4" 325 FR
-RT - #71 Chase Bisontis 6'5" 320 - #76 Rueben Fatheree 6'8" 315
+* LT - #60 Trey Zuhn 6'7" 315 - #89 Dametrious Crownover 6'7" 315
+* LG - #75 Kam Dewberry 6'4" 330 - #66 Jordan Spasojevic Moko 6'5" 340
+* C -  #61 Bryce Foster 6'5" 330 - #54 Mark Nabou 6'4" 325 R-FR
+* RG - #64 Layden Robinson 6'4" 315 - #67 TJ Shanahan 6'4" 325 FR
+* RT - #71 Chase Bisontis 6'5" 320 - #76 Rueben Fatheree 6'8" 315
 
 *Note: Although I put Crownover at backup LT, if Zuhn goes down I expect Fatheree to slide to LT and Bisontis to take RT back*
 
@@ -119,10 +119,10 @@ Moving inside is where it gets interesting, Walter Nolen has lost weight hoping 
 
 
 
-WDE  - #10 Fadil Diggs 6'5" 260/ #18 LT Overton 6'5" 255
-3T   - #0 Walter Nolen 6'4" 285/ #99 Gabriel Brownlow-Dindy 6'3" 290 / #17 Albert Regis 6'2" 325
-Nose - #3 Mckinley Jackson 6'2" 325  / #34 Isaih Raikes 6'2" 320
-SDE  - #5 Shemar Turner 6'4" 295 / #4 Shemar Stewart 6'6" 285
+* WDE  - #10 Fadil Diggs 6'5" 260/ #18 LT Overton 6'5" 255
+* 3T   - #0 Walter Nolen 6'4" 285/ #99 Gabriel Brownlow-Dindy 6'3" 290 / #17 Albert Regis 6'2" 325
+* Nose - #3 Mckinley Jackson 6'2" 325  / #34 Isaih Raikes 6'2" 320
+* SDE  - #5 Shemar Turner 6'4" 295 / #4 Shemar Stewart 6'6" 285
 
 
 
@@ -132,8 +132,8 @@ Big shake up in the projected starting line up from the spring, true freshman Ta
 
 
 
-MLB - Taurean York / Christopher Russell / Jurriente Davis
-WLB - Edgerrin Cooper / Martrell Harris / Daymion Sanford 
+* MLB - Taurean York / Christopher Russell / Jurriente Davis
+* WLB - Edgerrin Cooper / Martrell Harris / Daymion Sanford 
 
 
 #### Corner Back
@@ -144,10 +144,10 @@ Cornerback, odd story, one spot is locked down by Tyreek Chappell but with some 
 
 As you can see we are pretty thin long term at corner and desparately need to land Kobe Black and more impact CB's in portal
 
-CB - #7 Tyreek Chappell 5'11 185 / #16 Sam McCall 6'1" 185
-CB - #28 Joshua DeBerry 6'1" 180 / #14 Jayvon Thomas 6' 190 / #8 Tony Grimes 6' 190
+* CB - #7 Tyreek Chappell 5'11 185 / #16 Sam McCall 6'1" 185
+* CB - #28 Joshua DeBerry 6'1" 180 / #14 Jayvon Thomas 6' 190 / #8 Tony Grimes 6' 190
 
-NB - #1 Bryce Anderson 6' 195 / #25 Dalton Brooks 6' 200
+* NB - #1 Bryce Anderson 6' 195 / #25 Dalton Brooks 6' 200
 
 
 
@@ -159,8 +159,8 @@ Demani is back at SS and will be the captain of the defense, getting everyone li
 
 The number 1 passing defense in the country returning all but 1 starter should be a pretty sweaty unit again in 2023, numbers wont be quite as high (hopefully) with an improved run defense. 
 
-SS - #26 Demani Richardson 6'1" 215 / #2 Jacoby Mathews 6'2" 215
-FS - #20 Jardin Gilbert 6'1" 200 / #33 Jared Kerr 6' 195
+* SS - #26 Demani Richardson 6'1" 215 / #2 Jacoby Mathews 6'2" 215
+* FS - #20 Jardin Gilbert 6'1" 200 / #33 Jared Kerr 6' 195
 
 
 
