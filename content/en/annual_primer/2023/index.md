@@ -132,8 +132,8 @@ Big shake up in the projected starting line up from the spring, true freshman Ta
 
 
 
-* MLB - Taurean York / Christopher Russell / Jurriente Davis
-* WLB - Edgerrin Cooper / Martrell Harris / Daymion Sanford 
+* MLB - #21 Taurean York 6' 230 / #24 Christopher Russell 6'2" 235 / #22 Jurriente Davis 6'1" 235
+* WLB - #45 Edgerrin Cooper 6'3" 230 / #40 Martrell Harris 6'2" 220 / #27 Daymion Sanford 6'2" 225 
 
 
 #### Corner Back
