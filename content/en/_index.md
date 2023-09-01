@@ -32,19 +32,19 @@ title: Texas A&M Football Primer
 
 
 
-<!-- {{% blocks/section type="row" %}} -->
+{{% blocks/section color="grey" type="row" %}}
 
 <!-- {{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
 Get the Goldydocs app!
 {{% /blocks/feature %}} -->
 
-<!-- {{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
+    url="https://github.com/cpwooley12/AggiePrimer" %}}
+We do a [Pull Request](https://github.com/cpwooley12/AggiePrimer/pulls)
 contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
+<!-- {{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
     url="https://twitter.com/GoHugoIO" %}}
 For announcement of latest features etc.
 {{% /blocks/feature %}}
@@ -54,5 +54,6 @@ For announcement of latest features etc.
 
 {{% blocks/section %}}
 This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}} -->
+{.h1 .text-center} -->
+
+{{% /blocks/section %}}
