@@ -4,7 +4,7 @@ title: Texas A&M Football Primer
 
 
 
-{{< blocks/cover title="Welcome to Connor Wooley's: Texas A&M Football Primer!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Its not Fisch - Trust Me Bro" image_anchor="top" height="full" >}}
 <!-- <a class="btn btn-lg btn-primary me-3 mb-4" href="/annual_primer/">
   Annual Primers <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a> -->
@@ -14,9 +14,7 @@ title: Texas A&M Football Primer
 </br>
 </br>
 </br>
-<u>Click to access the primers</u>
-</br>
-<a class="btn btn-link text-info" href="/annual_primer"><i class="fa-solid fa-circle-chevron-down" style="font-size: 400%"></i></a>
+
 
 {{< /blocks/cover >}}
 
